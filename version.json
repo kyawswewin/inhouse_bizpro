@@ -2,7 +2,11 @@
     "version": "1.0.1",
     "minimum_version": "1.0.0",
     "mandatory": false,
-    "message": "Bug fixes and performance improvements.",
+    "message": "update v1.01
+-staff management (created time, wrong problem fixed)
+-change company information update in sidebar menu
+-when creating acc code changes from radio button to multiple checkbox
+-add trial version control system",
     "download_url": "https://github.com/kyawswewin/inhouse_bizpro/releases/download/v1.0.1/BizPro-1.0.1.exe",
     "sha256": "F257073A4A65CEF0CCB52697EF9F30AA8CA208EF1F9FE75973736B8E61E76A42"
 }
