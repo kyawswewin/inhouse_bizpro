@@ -1,0 +1,8 @@
+{
+    "version": "1.0.1",
+    "minimum_version": "1.0.0",
+    "mandatory": false,
+    "message": "Bug fixes and performance improvements.",
+    "download_url": "https://github.com/YOUR_USERNAME/BizProPOS/releases/download/v1.0.1/BizProPOS-1.0.1.exe",
+    "sha256": "YOUR_SHA256_HASH"
+}
