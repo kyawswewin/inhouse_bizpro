@@ -1,8 +1,8 @@
 {
-    "version": "1.0.6",
+    "version": "1.0.8",
     "minimum_version": "1.0.0",
     "mandatory": false,
-    "message": "Version 1.0.5 Highlights & Updates:\n• Change Dashboard's layout and design.\n• ACCOUNT filtering and search functionality on the dashboard.\n• When creating bank accounts, add a ACCOUNT BOOK NAME field.\n•Tailored application environment metadata for In-House Industry Co., Ltd.\n• System stability enhancements and improved background network error reporting.\n• Give me times.... I will add more features in the next version. Stay tuned Your Brother KG☺️!\n",
-    "download_url": "https://github.com/kyawswewin/inhouse_bizpro/releases/download/v1.0.6/BizPro-1.0.5.exe",
-    "sha256": "7B89098ADC65F2CA05DEB31415685C9F2F7F70D490AC540F87D8AF111AEFB119"
+    "message": "Version 1.0.8 Highlights & Updates:\n• Change Dashboard's layout and design.\n• ACCOUNT filtering and search functionality on the dashboard.\n• When creating bank accounts, add a ACCOUNT BOOK NAME field.\n•Tailored application environment metadata for In-House Industry Co., Ltd.\n• System stability enhancements and improved background network error reporting.\n• Give me times.... I will add more features in the next version. Stay tuned Your Brother KG☺️!\n",
+    "download_url": "https://github.com/kyawswewin/inhouse_bizpro/releases/download/v1.0.8/BizPro.exe",
+    "sha256": "7B958D43211CABF10ECBE07930543CBC1B043BBD0BF038956BB371F73263764F"
 }
