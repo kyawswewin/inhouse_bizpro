@@ -2,7 +2,13 @@
     "version": "1.0.3",
     "minimum_version": "1.0.0",
     "mandatory": false,
-    "message": "What's new in v1.0.1:\n\n• Fixed staff management created-time issue\n• Added company information update to the sidebar menu\n• Changed account-code selection from radio buttons to multiple checkboxes\n• Added trial-version control system",
-    "download_url": "https://github.com/kyawswewin/inhouse_bizpro/releases/download/v1.0.3/BizPro-1.0.3.exe",
-    "sha256": "16F42D716459C736839671C81B866329B09B7F4EA4F032449DC1697500258196"
+    "message": "<b>Version 1.0.5 Highlights & Updates:</b>\n
+• Change Dashboard's layout and design.\n
+• ACCOUNT filtering and search functionality on the dashboard.\n
+• When creating bank accounts, add a ACCOUNT BOOK NAME field.\n
+• Tailored application environment metadata for In-House Industry Co., Ltd.\n
+• System stability enhancements and improved background network error reporting.\n
+• Give me times.... I will add more features in the next version. Stay tuned Your Brother KG☺️!\n",
+    "download_url": "https://github.com/kyawswewin/inhouse_bizpro/releases/download/v1.0.5/BizPro-1.0.5.exe",
+    "sha256": "2AD89562925B7E28E5E08CD8AE9F4FDA8EE8215A721EC99993BC297BE90A13F3"
 }
